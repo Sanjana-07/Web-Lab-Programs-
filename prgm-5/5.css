@@ -1,0 +1,27 @@
+*{
+    display: block; font-size: 20px;
+    background-color: lemonchiffon;
+}
+USN {
+    color: brown;
+    font-size: 30px;
+    margin-top: 20px;
+    }
+
+STUDENT
+{
+    text-align: center;
+
+}
+NAME
+{
+color: navy;
+}
+EMAIL
+{
+color: indigo;
+}
+BRANCH
+{
+color: green;
+}

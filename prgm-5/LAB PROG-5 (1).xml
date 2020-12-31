@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="5.css"?>
+
+<STUDENTDATA>
+
+ <STUDENT>
+  <USN>USN   : 1CE17CS109</USN>
+  <NAME>NAME : SANJANA R GOWDA </NAME>
+  <COLLEGE>COLLEGE : City Engineering College</COLLEGE>
+  <BRANCH>BRANCH :Computer Science and Engineering</BRANCH>
+  <YEAR>YEAR : 2020</YEAR>
+  <EMAIL>E-MAIL : sanjanasanvi07@gmail.com</EMAIL>
+ </STUDENT>
+
+ <STUDENT>
+  <USN>USN : 1CE17CS085</USN>
+  <NAME>NAME :POOJASHREE A</NAME>
+  <COLLEGE>COLLEGE : City Engineering College</COLLEGE>
+  <BRANCH>BRANCH :Computer Science and Engineering</BRANCH>
+  <YEAR>YEAR : 2020</YEAR>
+  <EMAIL>E-MAIL : poojashreeab@gmail.com</EMAIL>
+ </STUDENT>
+
+ <STUDENT>
+  <USN>USN   : 1CE17CS089</USN>
+  <NAME>NAME : PRERANA P</NAME>
+  <COLLEGE>COLLEGE : City Engineering College</COLLEGE>
+  <BRANCH>BRANCH :Computer Science and Engineering</BRANCH>
+  <YEAR>YEAR : 2020</YEAR>
+  <EMAIL>E-MAIL : prerana.ro@gmail.com</EMAIL>
+ </STUDENT>
+ 
+</STUDENTDATA>
